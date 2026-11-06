@@ -1,16 +1,19 @@
-## Hi there 👋
+# Blanche Nzeyidio Kiangebeni
 
-<!--
-**blanchenk/blanchenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineering student (ICAM, class of 2029) · Looking for an IT internship starting May 2027**
 
-Here are some ideas to get you started:
+I'm endlessly curious, and that's why I work across all the complementary domains that shape IT today. I build 12 hands-on projects, from networks to AI, with code, diagrams and proof that it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I'm looking for
+An internship in **IT support · networks · cybersecurity · DevOps · data & AI · IT project management**.
+
+#  What I'm building (Nov 2026 → Jan 2027)
+-  **Networks**: VLAN, OSPF, NAT, ACL, monitoring (OPNsense, Zabbix)
+-  **Cybersecurity**: Wazuh SIEM, Linux hardening (Lynis, fail2ban, UFW)
+-  **DevOps**: Docker, GitHub Actions CI/CD, Kubernetes, Terraform
+-  **Data & AI**: pandas, scikit-learn, Streamlit, RAG with Ollama
+- **IT support**: Active Directory, GPO, GLPI
+-  **Project management**: charter, risk register, Gantt, RACI
+
+##  Get in touch
+[LinkedIn](https://www.linkedin.com/in/blanche-nzeyidio-kiangebeni-8b0b32336) · blanche.nzeyidio@2029.icam.fr
